@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0238/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0238_WYG_000-1a, image: WYG1296/WYG1296-0543a.png}
+body:
+  text: 宋布衣集别集類五明提要臣等謹案宋布衣集三巻明宋登春撰登春字應元新河人少能詩善畫年三十餘即棄家逺逰足跡幾遍天下晚乃依其兄子居江陵之天鵞池因自號鵞池生徐學謨為荆州守深敬禮之後學謨以尚書致政歸登春訪之吳中因買舟浮錢塘徑躍入江水以死邢侗有弔宋叟詩序稱登春嘗語侗君視宋登春豈杉栢四周中人其生平立意如此蓋亦狂誕之士其詩本名鵞池集文名燕石集學謨嘗刻之荆州此編為康熙乙丑王培益所刋行則併詩文為一集者也登春文章簡質可匹盧柟蠛蠓集而竒古之趣遜之其論詩先性情而後文詞故所作平易自然而頗乏深意然五言多淡逺可誦足以自名一家朱􅂜尊以賈島李洞為比可謂擬於其倫者矣乾隆四十六年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:4137293a2ddfb4152a055f26e655b5194fc17e66473a2a27c21d6ce6d8f22242
+metadata:
+  title: 宋布衣集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:27:22.745106'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0238/KR4e0238_000.txt
+hash: sha256:a9bc3e413549427ba03de137b3555f6b0aa1256dab1298c0c59503796588306b
